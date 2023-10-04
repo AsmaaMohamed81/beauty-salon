@@ -1,3 +1,4 @@
+
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'dart:io';
@@ -5,12 +6,13 @@ import 'package:path_provider/path_provider.dart';
 import 'custom_alert.dart';
 import 'package:multi_image_picker2/multi_image_picker2.dart';
 
+
 class MultiImagePickerBtn extends StatefulWidget {
-  final ValueChanged<List<File>>? onChangeFile;
-  final List<Photo>? photos;
-  final int? type;
+  final ValueChanged<List<File>> onChangeFile;
+  final List<Photo> photos;
+  final int type;
   const MultiImagePickerBtn({
-    Key? key,
+    Key key,
     this.onChangeFile,
     this.photos,
     this.type,
@@ -273,7 +275,7 @@ class ImagePickerDialogBtSheet {
                   const SizedBox(height: 15.0),
                   GestureDetector(
                     onTap: () => Navigator.pop(context),
-                    child: Padding(
+                    child:  Padding(
                       padding: EdgeInsets.fromLTRB(30.0, 0.0, 30.0, 0.0),
                       child: _roundedButton(
                         label: "Cancel",
@@ -291,7 +293,6 @@ class ImagePickerDialogBtSheet {
     );
   }
 }
-
 class Photo {
   Photo({
     this.id,
