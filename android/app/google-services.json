@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1074441332957",
+    "project_id": "beauty-salon-a7101",
+    "storage_bucket": "beauty-salon-a7101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074441332957:android:6371c011df6f647b745334",
+        "android_client_info": {
+          "package_name": "com.elatheer.beauty_salon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074441332957-lh2ll4h2p4ppdv7jq2u44u5fir17gavg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elatheer.beauty_salon",
+            "certificate_hash": "62c0c059ecaef79901b7185d078c78ee29682d37"
+          }
+        },
+        {
+          "client_id": "1074441332957-p73r67flgr4vp46lvpsbpol89nprl5dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyLCzk-3jyk1cQnPPExI5hu1GrjBPWmhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074441332957-p73r67flgr4vp46lvpsbpol89nprl5dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

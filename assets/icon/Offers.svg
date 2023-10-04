@@ -1,0 +1,16 @@
+<svg id="Glyph" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="32" viewBox="0 0 48 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_212" data-name="Rectangle 212" width="26" height="26" transform="translate(11 3)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <rect id="Frame" width="48" height="32" fill="none"/>
+  <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+    <g id="percent" transform="translate(11 3)">
+      <rect id="Rectangle_3705" data-name="Rectangle 3705" width="26" height="26" fill="none"/>
+      <path id="Line_6" data-name="Line 6" d="M0,15.438A.81.81,0,0,1-.575,15.2a.812.812,0,0,1,0-1.149L14.05-.575a.812.812,0,0,1,1.149,0,.812.812,0,0,1,0,1.149L.575,15.2A.81.81,0,0,1,0,15.438Z" transform="translate(5.688 5.688)" fill="#999"/>
+      <path id="Ellipse_73" data-name="Ellipse 73" d="M2.844-.812A3.656,3.656,0,1,1-.812,2.844,3.66,3.66,0,0,1,2.844-.812Zm0,5.688A2.031,2.031,0,1,0,.813,2.844,2.034,2.034,0,0,0,2.844,4.875Z" transform="translate(4.875 4.875)" fill="#999"/>
+      <path id="Ellipse_74" data-name="Ellipse 74" d="M2.844-.812A3.656,3.656,0,1,1-.812,2.844,3.66,3.66,0,0,1,2.844-.812Zm0,5.688A2.031,2.031,0,1,0,.813,2.844,2.034,2.034,0,0,0,2.844,4.875Z" transform="translate(15.438 15.438)" fill="#999"/>
+    </g>
+  </g>
+</svg>

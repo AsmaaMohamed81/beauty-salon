@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_70" data-name="Rectangle 70" width="20" height="20" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="search" clip-path="url(#clip-path)">
+    <g id="magnifying-glass">
+      <rect id="Rectangle_88" data-name="Rectangle 88" width="20" height="20" fill="none"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="6.563" cy="6.563" r="6.563" transform="translate(3.146 2.5)" fill="none" stroke="#8a8a8a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+      <line id="Line_5" data-name="Line 5" x2="3.797" y2="3.797" transform="translate(14.349 13.703)" fill="none" stroke="#8a8a8a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+    </g>
+  </g>
+</svg>
