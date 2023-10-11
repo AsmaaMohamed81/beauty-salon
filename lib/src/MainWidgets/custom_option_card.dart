@@ -1,3 +1,4 @@
+import 'package:easy_localization/easy_localization.dart' hide TextDirection;
 import 'package:flutter/material.dart';
 
 import '../app.dart';
@@ -52,7 +53,7 @@ class CustomOptionCard {
   Widget optionCard2(
       {String? txt, IconData? icon, Function? onTap, Color? color}) {
     return Directionality(
-      textDirection: appContext!.locale!.languageCode!.toString() == "en"
+      textDirection: appContext!.locale.languageCode.toString() == "en"
           ? TextDirection.ltr
           : TextDirection.rtl,
       child: Column(
@@ -68,9 +69,10 @@ class CustomOptionCard {
                     color: color == null ? Colors.black : color, fontSize: 17),
               ),
               trailing: Directionality(
-                textDirection: appContext.locale.languageCode.toString() == "en"
-                    ? TextDirection.rtl
-                    : TextDirection.ltr,
+                textDirection:
+                    appContext!.locale.languageCode.toString() == "en"
+                        ? TextDirection.rtl
+                        : TextDirection.ltr,
                 child: Icon(
                   Icons.arrow_back_ios,
                   color: color == null ? Colors.grey : color,
