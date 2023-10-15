@@ -32,6 +32,9 @@ Future<void> main() async {
   print(selectLang);
   if (selectLang != null) {
     NetworkUtil.selectedLang = true;
+    NetworkUtil.selectedLang = true;
+
+    NetworkUtil.selectedLang = true;
   } else {
     NetworkUtil.selectedLang = false;
   }

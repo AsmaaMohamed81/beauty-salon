@@ -8,7 +8,7 @@ environment:
   sdk: ">=2.12.0 <3.0.0"
 
 dependency_overrides:
-  firebase_messaging_platform_interface: 3.1.6
+  firebase_messaging_platform_interface: 4.5.8
   image_picker_android: 0.8.4+13
 
 dependencies:
@@ -53,8 +53,8 @@ dependencies:
 #  firebase_analytics: ^8.3.4
 #  firebase_core: ^1.8.0
 #  firebase_messaging: ^10.0.2
-  firebase_core: ^1.10.0
-  firebase_messaging: ^13.1.0
+  firebase_core: ^2.17.0
+  firebase_messaging: ^14.6.9
   smooth_star_rating_null_safety: ^1.0.4+2
   dropdown_button2:
 
